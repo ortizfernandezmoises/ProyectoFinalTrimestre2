@@ -1,5 +1,4 @@
 # Proyecto Final de Trimestre 2
-====
 ## Proyecto creado por Moisés Ortiz Fernández
 
 Proyecto para la asignatura **Base de datos No Relacionales** utilizando **_MongoDB_** donde he creado dos coleccciones relacionadas entre sí para realizar consultas con los distintos operadores que hemos estudiado durante el trimestre.
